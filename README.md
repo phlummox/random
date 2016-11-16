@@ -1,4 +1,4 @@
 # random
 
-random snippets of code
+[random snippets of code](https://phlummox.github.io/random/).
 
